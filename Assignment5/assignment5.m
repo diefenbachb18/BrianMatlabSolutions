@@ -1,3 +1,6 @@
+%Brian Diefenbach
+%KINE 6203 Assignment 5
+%October 26th, 2017
 %This is the master script in which you can run the analysis. You only have
 %to run this file. 
 clear all
